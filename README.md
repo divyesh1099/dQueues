@@ -46,7 +46,7 @@ dQueues/
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/divyesh1099/dQueues
    cd dQueues
    ```
 
