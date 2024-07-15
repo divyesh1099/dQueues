@@ -1,0 +1,1 @@
+{"topics":[{"name":"send_gmail","paused":false,"channels":[{"name":"email_channel","paused":false}]},{"name":"send_outlook","paused":false,"channels":[{"name":"email_channel","paused":false}]}],"version":"1.3.0"}
